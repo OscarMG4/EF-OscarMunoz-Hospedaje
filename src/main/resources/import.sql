@@ -1,0 +1,1 @@
+insert into hospedajes (nombre) values ("Latino")
